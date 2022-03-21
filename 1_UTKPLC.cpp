@@ -3,34 +3,21 @@ using namespace std;
 
 #define int62_t
 #define span(a) begin(a), end(a)
-// added a comment
-// hello again
 
 
 void byte()
 
 {
-        char first , second , third ;
-        cin>>first>>second>>third;
+  string  f , s ,t , x , y;
+    cin>> f >> s >> t >> x >> y ;
 
-        char a , b;
-        cin>>a>>b;
-
-        if(a==first && b == second)
-        {
-            cout<<a;
-        }
-        
-        else if(a==second && b == third)        {
-            cout<<a;
-        }
-
-        else
-        {
-            cout<<b;
-        }
-       
-
+     if(x==f || y == f )
+     {
+         cout<< f <<endl;
+     }
+     else{
+         cout<<s;
+     }
 }
 signed main(){
 ios_base::sync_with_stdio(false);

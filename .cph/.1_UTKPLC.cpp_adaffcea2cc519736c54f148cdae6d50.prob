@@ -1,0 +1,1 @@
+{"name":"Local: 1_UTKPLC","url":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\NOV LONG\\DECMBER\\1_UTKPLC.cpp","tests":[{"id":1639292847897,"input":"2\nA B C\nA B\nB C A\nA C\n","output":"A\nC\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\NOV LONG\\DECMBER\\1_UTKPLC.cpp","group":"local","local":true}

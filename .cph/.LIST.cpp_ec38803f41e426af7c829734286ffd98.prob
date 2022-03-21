@@ -1,0 +1,1 @@
+{"name":"Local: LIST","url":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\NOV LONG\\DECMBER\\LIST.cpp","tests":[{"id":1639292266682,"input":"3\n1\n1\n2\n1 2\n3\n1 1 2\n","output":"0\n-1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\NOV LONG\\DECMBER\\LIST.cpp","group":"local","local":true}
